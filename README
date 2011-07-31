@@ -1,0 +1,11 @@
+resize thubmnail and images
+creates frame based minimal photo gallery
+
+usage:
+	gallery.py <source_dir> [<dest_dir>]
+
+	where
+		source_dir	dir where your images are
+		dest_dir	dir where gallery will be created
+
+will create ftp uploadable site in dest_dir
